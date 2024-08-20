@@ -1,0 +1,27 @@
+a {
+  color:cyan;
+}
+
+a:visited {
+  color:darkcyan;
+}
+
+body {
+  background-color:rgb(28, 1, 53);
+}
+
+h1 {
+  color:slateblue;
+}
+
+h2 {
+  color:lightskyblue;
+}
+
+p {
+  color:darkturquoise;
+}
+
+ul {
+  color:darkturquoise;
+}
